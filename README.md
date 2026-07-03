@@ -11,7 +11,7 @@ The plugin uses Playwright to drive a Chromium browser window, convert your mark
 **1. Clone the repo and set up the Python environment:**
 
 ```bash
-git clone https://github.com/debprakash/publish-to-medium
+git clone https://github.com/patnaikd/publish-to-medium
 cd publish-to-medium
 python3 -m venv .venv
 source .venv/bin/activate
