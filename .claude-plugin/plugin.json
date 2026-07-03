@@ -1,0 +1,9 @@
+{
+  "name": "publish-to-medium",
+  "version": "1.0.0",
+  "description": "Publish markdown files to Medium as unlisted posts via the Medium API.",
+  "author": {
+    "name": "Deb"
+  },
+  "keywords": ["medium", "publishing", "markdown", "writing"]
+}
